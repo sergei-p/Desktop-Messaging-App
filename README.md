@@ -29,24 +29,12 @@ A websocket based messaging app for desktops.
 
 ---
 
-## How To Use
-
-#### Installation
-Go to desired installation directory 
-
-
-#### Start Server
-`python manage.py runserver`
-
-#### Use application
-
-
 
 ## License
 
 MIT License
 
-Copyright (c) [2019] [Sergei Poliakov]
+Copyright (c) [2020] [Sergei Poliakov]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -66,11 +54,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#Multi-Format-File-Converter)
+[Back To The Top](#Desktop-Messaging-App)
 
 ---
 
 ## Author Info
-Coming Soon
+Name: Sergei Poliakov
+GitHub: sergei-p
 
-[Back To The Top](#Multi-Format-File-Converter)
+[Back To The Top](#Desktop-Messaging-App)
