@@ -21,7 +21,7 @@ A websocket based messaging app for desktops.
 
 #### Server
 - Node.js
-- ws (https://github.com/websockets/ws)
+- ws https://github.com/websockets/ws
 
 
 [Back To The Top](#Desktop-Messaging-App)
