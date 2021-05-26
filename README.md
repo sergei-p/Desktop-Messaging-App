@@ -59,6 +59,7 @@ SOFTWARE.
 
 ## Author Info
 Name: Sergei Poliakov
+
 GitHub: sergei-p
 
 [Back To The Top](#Desktop-Messaging-App)
