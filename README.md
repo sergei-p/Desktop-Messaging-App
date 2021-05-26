@@ -11,7 +11,7 @@
 ---
 
 ## Description
-A messaging app for desktops. Client is built using Qt Framework. Server is built with Node.js.
+A websocket based messaging app for desktops.
 
 ## Technologies
 
