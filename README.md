@@ -10,7 +10,9 @@
 ---
 
 ## Description
-A websocket based messaging app for desktops.
+Desktop messaging app that allows text messages to be sent across multiple clients. The app allows for
+one-to-one communication between two clients, as well as group chat with multiple clients. Communication
+between different clients is accomplished by using a server that relays the messages via websockets.
 
 ## Technologies
 
