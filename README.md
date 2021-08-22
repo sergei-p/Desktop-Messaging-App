@@ -10,7 +10,7 @@
 ---
 
 ## Description
-Desktop messaging app that allows text messages to be sent across multiple clients. The app allows for
+Desktop messaging app that allows text messages to be sent across multiple clients. The app provides support for
 one-to-one communication between two clients, as well as group chat with multiple clients. Communication
 between different clients is accomplished by using a server that relays the messages via websockets.
 
